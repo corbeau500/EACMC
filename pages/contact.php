@@ -51,8 +51,7 @@
 						</div><!-- end col -->
 				</div><!-- end row -->
 
-	<div class="row">
-		<div class="offset-md-1 col-sm-10 col-md-10 offset-sm-1 pd-add">
+	<div class="row " style="margin-top:20px">
 			<div class="address-item">
 				<div class="address-icon">
 					<i class="icon icon-location2"></i>
@@ -69,15 +68,15 @@
 				<p>infos-eacmc-congo@gmail.com
 					<br>eacmc-congo@gmail.com</p>
 			</div>
+			
 			<div class="address-item">
 				<div class="address-icon">
 					<i class="icon icon-headphones"></i>
 				</div>
-				<h3>Contact</h3>
+				<h3>Contact</h3><
 				<p>+242 05 563 93 49
 					<br>+242 06 419 13 18</p>
 			</div>
-		</div>
 	</div><!-- end row -->
 
 		</div><!-- end container -->

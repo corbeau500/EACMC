@@ -121,7 +121,7 @@ l’ACM constitue aujourd’hui une famille d’Églises à l’échelle mondial
                 </p>
               </div>
               <span>
-									<a href="blog.html" class="btn11">Lire plus</a>
+              <a href="blog.html" class="btn11"><span>Lire plus</span></a>
 								</span>
             </div>
             <!-- Start single blog -->
@@ -147,10 +147,10 @@ l’ACM constitue aujourd’hui une famille d’Églises à l’échelle mondial
                 <p>
                   Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
                 </p>
+               
               </div>
               <span>
-									<a href="blog.html" class="btn11">Lire plus</a>
-								</span>
+              <a href="blog.html" class="btn11"><span>Lire plus</span></a>								</span>
             </div>
             <!-- Start single blog -->
           </div>
